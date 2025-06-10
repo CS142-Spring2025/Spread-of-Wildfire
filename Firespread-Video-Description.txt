@@ -1,0 +1,5 @@
+Firespread-Video.mp4...
+
+Is a screen recording of a wildfire simulation, simulating fire spreading using square grids, the square grids contain trees, grass, and water. Each square can burn at different rates, if indeed burning, this can cause neighboring squares to burn also by being able to spread the fire to another square, taking into count humidity and wind.
+
+Our simulation is here to show a natural disaster which can be seen in a realistic and interesting way for learning purposes!
